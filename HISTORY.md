@@ -1,3 +1,7 @@
+v2.2.3
+==================
+* Fix min/max labels cannot render/visible.
+
 v2.2.2
 ==================
 * Added workaround for a Firefox bug where getScreenCTM doesnt work right when the svg is in a transformed HTML element
