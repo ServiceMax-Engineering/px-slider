@@ -1,3 +1,7 @@
+v2.2.4
+==================
+* Fix min/max labels overlapping on Edge.
+
 v2.2.3
 ==================
 * Fix min/max labels cannot render/visible.
