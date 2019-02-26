@@ -1,3 +1,7 @@
+v2.2.5
+==================
+* Fix px-slider input horizontally alignment.
+
 v2.2.4
 ==================
 * Fix min/max labels overlapping on Edge.
