@@ -1,3 +1,7 @@
+v2.2.6
+==================
+* Fix px-slider input text cut issue.
+
 v2.2.5
 ==================
 * Fix px-slider input horizontally alignment.
